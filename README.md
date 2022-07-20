@@ -11,11 +11,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot (18).png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://dhanie-ellah.github.io/huddle-landing-page-with-alternating-feature-blocks/](https://dhanie-ellah.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 ### Built with
 
